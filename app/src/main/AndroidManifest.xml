@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <!-- <activity android:name=".ImageViewDemo"></activity> -->
-        <!--<activity android:name=".RadioGroupDemo"></activity>-->
+        <!-- <activity android:name=".RadioGroupDemo"></activity> -->
+        <activity android:name=".CheckBoxActivity"></activity>
     </application>
 
 </manifest>
