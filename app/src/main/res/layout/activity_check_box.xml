@@ -25,7 +25,7 @@
         android:text="php从入门到精通"/>
 
     <TextView
-        android:id="@+id/choce"
+        android:id="@+id/choice"
         android:layout_marginTop="15dp"
         android:layout_below="@id/s_php"
         android:layout_width="wrap_content"
